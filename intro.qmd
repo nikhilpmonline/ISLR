@@ -1,0 +1,35 @@
+---
+title:  "An Introduction to Statistical Learning: With Applications in R"
+subtitle: Personal notebook
+author: 
+  - name: Nikhil Pakkattil Muraleedharan
+    orcid: 0000-0002-3597-7327 
+    corresponding: true
+    url: https://nikhilpm.netlify.app/ 
+keywords: 
+- Statistics
+- Data Science
+- Statistical Software
+- Quarto
+- R
+
+abstract: |
+  The objective of this project is to record my learnings from the amazing book Introduction to Statistical Learning: with applications R by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani.
+bibliography: references.bib
+number-sections: true
+license: "CC BY"
+---
+
+# Motivation
+
+Even though I had skimmed through [Introduction to Statistical Learning: with applications R](https://www.statlearning.com/) once, I realized that I needed to keep detailed record of my projects, solutions, mistakes made and lessons learned, ensuring continuous improvement. This is the sole motivation for this project.
+
+# Softwares, libraries, and other moving parts 
+
+Even though this is primarily for improving my skills in R, I will also be using python, STATA, D3.js etc.
+
+## References {.unnumbered}
+
+::: {#refs}
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning: With Applications in R. Springer US. https://doi.org/10.1007/978-1-0716-1418-1
+:::
