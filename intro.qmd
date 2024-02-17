@@ -28,6 +28,8 @@ Even though I had skimmed through [Introduction to Statistical Learning: with ap
 
 Even though this is primarily for improving my skills in R, I will also be using python, STATA, D3.js etc.
 
+I will also try and put into practice what I had learned from the [Reproducible Research Fundamentals](https://www.dropbox.com/scl/fo/upi7sd51sgnvjlz11fvjg/h/Nikhil\ Pakkattil Muraleedharan.pdf?rlkey=q2y8oz0p9vyuky0a32okjoxci&dl=0) course conducted by the World Bank's Development Impact (DIME) department.
+
 ## References {.unnumbered}
 
 ::: {#refs}
